@@ -17,7 +17,7 @@ if the choise positional arguement is N then it will automatically download the 
  To know about tensorflow object detection API, click [here](https://github.com/tensorflow/models/tree/master/research/object_detection).
  
  NOTE :
- I have provided three models but you can find more models trained on COCO datsets from [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
+ You can find more models trained on COCO datsets from [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
  
  
  
