@@ -3,7 +3,7 @@
 This will take the video given to it and detects the objects present in it with the help of tensorflow object detection API.
 
 ## Getting started 
-clone the repository and extract all the file in particular folder 
+clone the repository and extract all the file in the resource folder of tensorflow object detection API directory.
 
 ## Usage 
 ```
@@ -12,10 +12,6 @@ clone the repository and extract all the file in particular folder
 ```
 NOTE :
 if the choise positional arguement is N then it will automatically download the model and use it.
- 
- ### prerequisites
- 1. Tensorflow
- 2. opencv (python)
  
  ### Tensorflow models
  To know about tensorflow object detection API, click [here](https://github.com/tensorflow/models/tree/master/research/object_detection).
